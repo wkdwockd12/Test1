@@ -1,2 +1,4 @@
 지역저장소에서 만든 파일
-
+red
+blue
+yellow
